@@ -1,0 +1,1 @@
+5 comandos para usar no início do git: Git init, git commit -m, git add, git log, git push.
