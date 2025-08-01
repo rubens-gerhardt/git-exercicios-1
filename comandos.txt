@@ -1,1 +1,7 @@
 5 comandos para usar no início do git: Git init, git commit -m, git add, git log, git push.
+git init: inicia um repositório git.
+git commit -m: salva uma versão do arquivo.
+git add: manda o arquivo para a área de staging para ser commitado.
+git log: mostra o histórico de commits junto com suas mensagens se houver.
+git log: Envia todos os arquivos da branch main para o repositório do
+origin.
