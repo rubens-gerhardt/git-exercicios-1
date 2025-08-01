@@ -1,1 +1,4 @@
 git log; git init; git revert.
+git log: Mostra o histórico de commits, junto com as mensagens se houver.
+git init: Inicia o repositório e adiciona a pasta oculta ".git".
+git revert: Desfaz um commit feito.
